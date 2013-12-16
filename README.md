@@ -1,8 +1,11 @@
-Resonate 2014 Attendee Map
+##Resonate 2014 Attendee Map
 
-ashley james brown
+Code by: Ashley James Brown / 
+[http://ashleyjamesbrown.com/](http://ashleyjamesbrown.com/) / 
+[https://vimeo.com/ashleyjamesbrown](https://vimeo.com/ashleyjamesbrown)
+
 for #res14
-resonate cities
+Resonate Cities
 
 dec 2013. v 1.0
 
